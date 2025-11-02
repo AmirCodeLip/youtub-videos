@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "Alexander",
+        "lastName": "Volkanovski",
+        "nickName": "The Great"
+    },
+    {
+        "id": 2,
+        "name": "Kamaru",
+        "lastName": "Usman",
+        "nickName": "The Nigerian Nightmare"
+    },
+    {
+        "id": 3,
+        "name": "Merab",
+        "lastName": "Dvalishvili",
+        "nickName": "The Machine"
+    },
+    {
+        "id": 4,
+        "name": "Islam",
+        "lastName": "Makhachev",
+        "nickName": "No nickname"
+    },
+    {
+        "id": 5,
+        "name": "Conor",
+        "lastName": "McGregor",
+        "nickName": "The Notorious"
+    },
+    {
+        "id": 6,
+        "name": "Jon",
+        "lastName": "Jones",
+        "nickName": "Bones"
+    },
+    {
+        "id": 7,
+        "name": "Israel",
+        "lastName": "Adesanya",
+        "nickName": "The Last Stylebender"
+    },
+    {
+        "id": 8,
+        "name": "Francis",
+        "lastName": "Ngannou",
+        "nickName": "The Predator"
+    },
+    {
+        "id": 9,
+        "name": "Georges",
+        "lastName": "St-Pierre",
+        "nickName": "Rush"
+    },
+    {
+        "id": 10,
+        "name": "Anderson",
+        "lastName": "Silva",
+        "nickName": "The Spider"
+    },
+    {
+        "id": 11,
+        "name": "Khabib",
+        "lastName": "Nurmagomedov",
+        "nickName": "The Eagle"
+    },
+    {
+        "id": 12,
+        "name": "Daniel",
+        "lastName": "Cormier",
+        "nickName": "DC"
+    },
+    {
+        "id": 13,
+        "name": "Stipe",
+        "lastName": "Miocic",
+        "nickName": "No nickname"
+    },
+    {
+        "id": 14,
+        "name": "Jose",
+        "lastName": "Aldo",
+        "nickName": "Junior"
+    },
+    {
+        "id": 15,
+        "name": "Ronda",
+        "lastName": "Rousey",
+        "nickName": "Rowdy"
+    },
+    {
+        "id": 16,
+        "name": "Amanda",
+        "lastName": "Nunes",
+        "nickName": "The Lioness"
+    },
+    {
+        "id": 17,
+        "name": "Henry",
+        "lastName": "Cejudo",
+        "nickName": "Triple C"
+    },
+    {
+        "id": 18,
+        "name": "Dustin",
+        "lastName": "Poirier",
+        "nickName": "The Diamond"
+    },
+    {
+        "id": 19,
+        "name": "Nate",
+        "lastName": "Diaz",
+        "nickName": "No nickname"
+    },
+    {
+        "id": 20,
+        "name": "Max",
+        "lastName": "Holloway",
+        "nickName": "Blessed"
+    },
+    {
+        "id": 21,
+        "name": "Ilia",
+        "lastName": "Topuria",
+        "nickName": "el matador"
+    },
+    {
+        "id": 22,
+        "name": "Nassourdine",
+        "lastName": "Imavov",
+        "nickName": ""
+    },
+    {
+        "id": 23,
+        "name": "Caio",
+        "lastName": "Borralho",
+        "nickName": ""
+    }
+]

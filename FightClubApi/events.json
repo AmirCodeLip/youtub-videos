@@ -1,0 +1,10 @@
+[
+    {
+        "Id": 1,
+        "StartDate": "2025-09-11 07:30:00",
+        "Status": 0,
+        "weight": 1,
+        "fighter1": 22,
+        "fighter2": 23
+    }
+]
